@@ -1,0 +1,4 @@
+C:\Users\eranas\source\repos\QueueService3\QueueService3\obj\Debug\QueueService3.csproj.AssemblyReference.cache
+C:\Users\eranas\source\repos\QueueService3\QueueService3\obj\Debug\QueueService3.csproj.CoreCompileInputs.cache
+C:\Users\eranas\source\repos\QueueService3\QueueService3\obj\Debug\QueueService3.dll
+C:\Users\eranas\source\repos\QueueService3\QueueService3\obj\Debug\QueueService3.pdb
